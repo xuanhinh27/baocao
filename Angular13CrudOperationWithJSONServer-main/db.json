@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "fasi",
+      "lastName": "ulhaq",
+      "Email": "fasiulhaq@gmail.com",
+      "Mobile": "02923023232322",
+      "Salary": "120000"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "farhan",
+      "Email": "farhan2232@gmail.com",
+      "Mobile": "2302392304",
+      "Salary": "3400000",
+      "id": 3
+    },
+    {
+      "firstName": "Arslan",
+      "lastName": "Ahmed",
+      "Email": "arslan@gmail.com",
+      "Mobile": "029308239",
+      "Salary": "230000",
+      "id": 4
+    },
+    {
+      "firstName": "kainat",
+      "lastName": "haq",
+      "Email": "kainat@gmail.com",
+      "Mobile": "023023023",
+      "Salary": "230000",
+      "id": 5
+    },
+    {
+      "firstName": "Ayesha",
+      "lastName": "Anum",
+      "Email": "ayesha@gmail.com",
+      "Mobile": "02309023",
+      "Salary": "1200000",
+      "id": 6
+    },
+    {
+      "firstName": "sameh",
+      "lastName": "UL HAQ",
+      "Email": "SAMEHULHAQ142@GMAIL.COM",
+      "Mobile": "02302434023",
+      "Salary": "2000000",
+      "id": 7
+    },
+    {
+      "firstName": "Muhammad ",
+      "lastName": "Ali",
+      "Email": "ALI@gmail.com",
+      "Mobile": "34534535",
+      "Salary": "1200000",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
